@@ -20,42 +20,24 @@ Output Format:
 Print t number of lines, and in ith line print q integers a1,a2,a3,... where aj=maximum number of tries that uncle has to made in order to unlock the laptop for jth query of ith test case.Since aj's can be huge,so print aj mod 1e9+7.[I hope the reader will like the problem, give a fair try and then only read the editorial/solution code:)]
 
 
-Sample test case: 
+Sample test case:  
+Input:  
+1  
+5 1  
+is     
+this  
+a  
+animal  
+manali  
+isthsianamila  
 
-Input:
-
-1
-
-5 1
-
-is
-
-this
-
-a
-
-animal
-
-manali
-
-isthsianamila
-
-Output: 8
-
-Explanation:
-
-A maximum of 8 passwords are possible: is this a animal
-
-is this a manali
-
-this is a animal
-
-this is a manali
-
-is this animal a
-
-is this manali a
-
-this is animal a
-
-this is manali a
+Output: 8  
+Explanation:  
+A maximum of 8 passwords are possible: is this a animal  
+is this a manali  
+this is a animal  
+this is a manali  
+is this animal a  
+is this manali a  
+this is animal a  
+this is manali a  
