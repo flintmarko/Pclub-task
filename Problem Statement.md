@@ -17,7 +17,7 @@ Then, follow n lines each containing a word in his vocabulary.Length of each wor
 Output Format:
 
 
-Print t number of lines, and in ith line print q integers a1,a2,a3,... where aj=maximum number of tries that uncle has to made in order to unlock the laptop for jth query of ith test case.
+Print t number of lines, and in ith line print q integers a1,a2,a3,... where aj=maximum number of tries that uncle has to made in order to unlock the laptop for jth query of ith test case.Since aj's can be huge,so print aj mod 1e9+7.[I hope the reader will like the problem, give a fair try and then only read the editorial/solution code:)]
 
 
 Sample test case: 
