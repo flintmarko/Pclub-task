@@ -1,7 +1,7 @@
 #                                                              Naughty friend  
 Krish has a limited vocabulary and he accidentally forgot his laptop at his uncle’s house yesterday but today he needs some documents urgently from his laptop. 
 So he mailed his uncle the password of his laptop, which is an English sentence made from his vocabulary. But one of his naughty friends, Prachi cleverly changed the password and this is how she did that: 
-she first jumbled each word of the sentence and then remove the spaces between the jumbled words. Now, you have to tell what are the maximum possible tries, the uncle has to make to open the laptop.
+she first jumbled the characters of each word of the sentence(without changing the order of words in sentence) and then remove the spaces between the jumbled words. Now, you have to tell what are the maximum possible tries, the uncle has to make to open the laptop.
 
 
 
